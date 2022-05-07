@@ -1,4 +1,4 @@
-#!bin/bash 
+#!/data/data/com.termux/files/usr/bin/bash 
 
 pkg install git 
 pkg install python
