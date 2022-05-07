@@ -4,9 +4,10 @@ pkg install git
 pkg install python
 pkg install python3
 pkg install python2
-pkg install sl 
-sl 
-
 pkg install nano 
-pkg install mc 
+pkg install mc
+pkg install sl
+pkg install aptitude 
+sl 
+clear
 echo "все записаные пакеты были обнавлены!/all recorded packages have been updated!"
